@@ -84,9 +84,9 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vibhav-Singh9&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vibhav-Singh9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav-Singh9&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav-Singh9&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhav-Singh9&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Vibhav-Singh9&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=onedark&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
