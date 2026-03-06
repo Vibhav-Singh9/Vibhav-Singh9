@@ -1,27 +1,27 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vibhav+Singh;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vibhav+Singh;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vibhav Singh</h1>
 
 <p align="center">
 💻 Full Stack Developer (MERN Stack) <br>
-🚀 Passionate about building scalable web applications and solving DSA problems
+🚀 Passionate about building scalable web applications and solving Data Structures & Algorithms problems
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student at **Shoolini University**
-* 💻 Strong in **C++, Data Structures & Algorithms**
-* 🌐 Full Stack Developer using **MERN Stack**
-* 🧠 Interested in building scalable backend systems
+* 🎓 B.Tech Computer Science student at **Shoolini University**
+* 💻 Strong in **C++ and Data Structures & Algorithms**
+* 🌐 MERN Stack Developer
+* ⚡ Interested in building scalable backend systems
 * 🏋️ Fitness enthusiast and weight lifting lover
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vibhav-singh-v15
 * 🧑‍💻 GitHub: https://github.com/Vibhav-Singh9
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -39,11 +39,11 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🚀 Coding Platform (LeetCode Inspired)
+## 🚀 Code Spark - Coding Platform 
 
-A full-stack coding practice platform.
+A full-stack coding practice platform built with the MERN stack.
 
 **Features**
 
@@ -56,11 +56,13 @@ A full-stack coding practice platform.
 
 React.js • Node.js • Express.js • MongoDB • Judge0
 
+🔗 Repository: https://github.com/Vibhav-Singh9/Code_Spark_Coding_Platform
+🔗 Live Demo: https://code-spark-coding-platform.vercel.app
 ---
 
-### 💪 Gym Workout Planner
+## 💪 Gym Workout Planner
 
-A full-stack gym workout planning application with email verification.
+A full-stack gym workout planning application with secure email verification.
 
 **Features**
 
@@ -72,9 +74,12 @@ A full-stack gym workout planning application with email verification.
 
 React.js • Node.js • Express.js • MongoDB • EmailJS
 
+🔗 Repository: https://github.com/Vibhav-Singh9/Gym_Workout_Planner
+🔗 Live Demo: https://gym-workout-planner-mu.vercel.app
+
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -86,7 +91,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -96,7 +101,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -106,7 +111,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vibhav-Singh9/Vibhav-Singh9/blob/output/github-contribution-grid-snake.svg)
 
