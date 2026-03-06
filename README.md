@@ -19,7 +19,7 @@
 
 * 💼 LinkedIn: https://linkedin.com
 * 🧑‍💻 GitHub: https://github.com/Vibhav-Singh9
-* 🌍 Portfolio: (your portfolio link)
+* 🌍 Portfolio: https://vibhavsingh.netlify.app/
 
 ---
 
