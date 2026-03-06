@@ -109,13 +109,6 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 <img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=tokyonight&no-frame=true"/>
 
 </p>
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
