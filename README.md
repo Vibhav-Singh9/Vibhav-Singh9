@@ -56,8 +56,9 @@ A full-stack coding practice platform built with the MERN stack.
 
 React.js • Node.js • Express.js • MongoDB • Judge0
 
-🔗 Repository: https://github.com/Vibhav-Singh9/Code_Spark_Coding_Platform
-🔗 Live Demo: https://code-spark-coding-platform.vercel.app
+🔗 **Repository:** [Code Spark Coding Platform](https://github.com/Vibhav-Singh9/Code_Spark_Coding_Platform)
+
+🚀 **Live Demo:** [View Project](https://code-spark-coding-platform.vercel.app)
 ---
 
 ## 💪 Gym Workout Planner
@@ -74,12 +75,12 @@ A full-stack gym workout planning application with secure email verification.
 
 React.js • Node.js • Express.js • MongoDB • EmailJS
 
-🔗 Repository: https://github.com/Vibhav-Singh9/Gym_Workout_Planner
-🔗 Live Demo: https://gym-workout-planner-mu.vercel.app
+🔗 **Repository:** [Gym Workout Planner](https://github.com/Vibhav-Singh9/Gym_Workout_Planner)
+🚀 **Live Demo:** [View Project](https://gym-workout-planner-mu.vercel.app)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -91,7 +92,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -101,7 +102,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -111,7 +112,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vibhav-Singh9/Vibhav-Singh9/blob/output/github-contribution-grid-snake.svg)
 
