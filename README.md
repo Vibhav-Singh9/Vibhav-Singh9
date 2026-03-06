@@ -84,9 +84,9 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vibhav-Singh9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vibhav-Singh9&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav-Singh9&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vibhav-Singh9&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -102,6 +102,13 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=tokyonight&no-frame=true"/>
+
+</p>
 ## 🏆 GitHub Trophies
 
 <p align="center">
