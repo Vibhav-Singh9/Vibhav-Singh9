@@ -57,8 +57,8 @@ A full-stack coding practice platform built with the MERN stack.
 React.js • Node.js • Express.js • MongoDB • Judge0
 
 🔗 **Repository:** [Code Spark Coding Platform](https://github.com/Vibhav-Singh9/Code_Spark_Coding_Platform)
-
 🚀 **Live Demo:** [View Project](https://code-spark-coding-platform.vercel.app)
+
 ---
 
 ## 💪 Gym Workout Planner
