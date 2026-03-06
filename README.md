@@ -1,7 +1,13 @@
-# Hi 👋 I'm Vibhav Singh
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vibhav+Singh;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
+</p>
 
-💻 Full Stack Developer | MERN Stack
-🚀 Passionate about building scalable web applications and solving DSA problems.
+<h1 align="center">Hi 👋, I'm Vibhav Singh</h1>
+
+<p align="center">
+💻 Full Stack Developer (MERN Stack) <br>
+🚀 Passionate about building scalable web applications and solving DSA problems
+</p>
 
 ---
 
@@ -17,7 +23,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com
+* 💼 LinkedIn: https://www.linkedin.com/in/vibhav-singh-v15
 * 🧑‍💻 GitHub: https://github.com/Vibhav-Singh9
 * 🌍 Portfolio: https://vibhavsingh.netlify.app/
 
@@ -25,71 +31,85 @@
 
 ## 🚀 Tech Stack
 
-### Programming Languages
+<p align="center">
 
-C++ | JavaScript | SQL
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,postman" />
 
-### Frontend
-
-HTML | CSS | Tailwind | React.js
-
-### Backend
-
-Node.js | Express.js | REST API
-
-### Database
-
-MongoDB
-
-### Tools
-
-Git | GitHub | Postman
+</p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🚀 Coding Platform (LeetCode Inspired)
+### 🚀 Coding Platform (LeetCode Inspired)
 
 A full-stack coding practice platform.
 
-Features:
+**Features**
 
 * Secure authentication system
 * Online code execution
 * Problem categorization
 * Interactive coding environment
 
-Tech Stack
-React.js | Node.js | Express.js | MongoDB | Judge0
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • Judge0
 
 ---
 
-## 💪 Gym Workout Planner
+### 💪 Gym Workout Planner
 
-A web application to plan workouts and manage user authentication.
+A full-stack gym workout planning application with email verification.
 
-Features:
+**Features**
 
 * OTP email verification
 * User authentication
 * Workout planning system
 
-Tech Stack
-React.js | Node.js | Express.js | MongoDB | EmailJS
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vibhav-Singh9&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibhav-Singh9&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhav-Singh9&theme=tokyonight" />
+
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=onedark&row=1&column=6" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vibhav-Singh9/Vibhav-Singh9/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ⭐ From [Vibhav Singh](https://github.com/Vibhav-Singh9)
