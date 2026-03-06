@@ -90,6 +90,6 @@ React.js | Node.js | Express.js | MongoDB | EmailJS
 
 # 🐍 Contribution Snake
 
----
+![Snake animation](https://github.com/Vibhav-Singh9/Vibhav-Singh9/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ From [Vibhav Singh](https://github.com/Vibhav-Singh9)
