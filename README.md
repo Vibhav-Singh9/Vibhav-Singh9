@@ -106,7 +106,7 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 <p align="center">
 
-<img src="https://github-profile-trophy-sigma.vercel.app/?username=Vibhav-Singh9&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
