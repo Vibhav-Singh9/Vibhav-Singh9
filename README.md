@@ -102,16 +102,6 @@ React.js • Node.js • Express.js • MongoDB • EmailJS
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vibhav-Singh9&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vibhav-Singh9/Vibhav-Singh9/blob/output/github-contribution-grid-snake.svg)
